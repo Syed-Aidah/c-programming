@@ -1,5 +1,6 @@
 //Display the series: 2 4 8 16 32 64 128 ....... (n terms)
 #include<stdio.h>
+#include<math.h>
 int main()
 {int i,n,x;
 printf("enter the no of terms of the sries you want ");
