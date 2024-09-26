@@ -4,7 +4,6 @@
 
 int main()
 {   
-    char  text[100];
     FILE *F;
     F= fopen("read.txt","r");
 
